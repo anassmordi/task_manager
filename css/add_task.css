@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+*{
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+}
+
+body {
+
+  background-color: rgb(56, 56, 56) !important;
+}
+
+.title {
+  color: rgb(55, 88, 255);
+}
+
+select option {
+  color: black;
+}
